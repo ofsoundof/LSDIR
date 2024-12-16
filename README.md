@@ -1,7 +1,7 @@
 # LSDIR: A Large Scale Dataset for Image Restoration
 
 ## How to use the dataset?
-1. Download the dataset from the [LSDIR](https://data.vision.ee.ethz.ch/yawli/index.html) website.
+1. Download the dataset from the [LSDIR](https://ofsoundof.github.io/lsdir-data/) website.
 2. Load the JSON file for the specific task.
    - `train.json`: for image restoration tasks based on synthetic data such as image denoising, real-world image super-resolution based on pure data synthesis, 
      JPEG compression artifact removal, Gaussian image deblurring, image demosaicking.
